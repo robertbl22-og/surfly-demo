@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/surfly-demo/static/css/main.ebfe8ec0.chunk.css",
-    "main.js": "/surfly-demo/static/js/main.e82f56bd.chunk.js",
-    "main.js.map": "/surfly-demo/static/js/main.e82f56bd.chunk.js.map",
+    "main.js": "/surfly-demo/static/js/main.ea592248.chunk.js",
+    "main.js.map": "/surfly-demo/static/js/main.ea592248.chunk.js.map",
     "runtime-main.js": "/surfly-demo/static/js/runtime-main.d820d35a.js",
     "runtime-main.js.map": "/surfly-demo/static/js/runtime-main.d820d35a.js.map",
     "static/js/2.d54ac364.chunk.js": "/surfly-demo/static/js/2.d54ac364.chunk.js",
     "static/js/2.d54ac364.chunk.js.map": "/surfly-demo/static/js/2.d54ac364.chunk.js.map",
     "index.html": "/surfly-demo/index.html",
-    "precache-manifest.5dc370a8396f54d8d14653a16568fd4c.js": "/surfly-demo/precache-manifest.5dc370a8396f54d8d14653a16568fd4c.js",
+    "precache-manifest.b2343893fdea3b3d3739e29ec258e654.js": "/surfly-demo/precache-manifest.b2343893fdea3b3d3739e29ec258e654.js",
     "service-worker.js": "/surfly-demo/service-worker.js",
     "static/css/main.ebfe8ec0.chunk.css.map": "/surfly-demo/static/css/main.ebfe8ec0.chunk.css.map",
     "static/media/logo.svg": "/surfly-demo/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d820d35a.js",
     "static/js/2.d54ac364.chunk.js",
     "static/css/main.ebfe8ec0.chunk.css",
-    "static/js/main.e82f56bd.chunk.js"
+    "static/js/main.ea592248.chunk.js"
   ]
 }
