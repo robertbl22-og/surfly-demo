@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/surfly-demo/precache-manifest.a0048d0908e53d05385722be10a4a50d.js"
+  "/surfly-demo/precache-manifest.8f0d77620244dc1fc3aa1c0bbd75c8b6.js"
 );
 
 self.addEventListener('message', (event) => {
