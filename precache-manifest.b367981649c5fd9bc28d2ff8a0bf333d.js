@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b981dd7a5f1da40f9da22bc6476d47db",
+    "revision": "7bdd73022eb5e17da9c698444b01b3b4",
     "url": "/surfly-demo/index.html"
   },
   {
