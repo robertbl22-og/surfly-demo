@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/surfly-demo/static/css/main.4415dffc.chunk.css",
-    "main.js": "/surfly-demo/static/js/main.3d9489dc.chunk.js",
-    "main.js.map": "/surfly-demo/static/js/main.3d9489dc.chunk.js.map",
+    "main.js": "/surfly-demo/static/js/main.73af4398.chunk.js",
+    "main.js.map": "/surfly-demo/static/js/main.73af4398.chunk.js.map",
     "runtime-main.js": "/surfly-demo/static/js/runtime-main.d820d35a.js",
     "runtime-main.js.map": "/surfly-demo/static/js/runtime-main.d820d35a.js.map",
     "static/css/2.65d0fb34.chunk.css": "/surfly-demo/static/css/2.65d0fb34.chunk.css",
     "static/js/2.4ca20e61.chunk.js": "/surfly-demo/static/js/2.4ca20e61.chunk.js",
     "static/js/2.4ca20e61.chunk.js.map": "/surfly-demo/static/js/2.4ca20e61.chunk.js.map",
     "index.html": "/surfly-demo/index.html",
-    "precache-manifest.3d60a10c2970fa5f8ad86ce80378c520.js": "/surfly-demo/precache-manifest.3d60a10c2970fa5f8ad86ce80378c520.js",
+    "precache-manifest.33b275251711f4214a05e050b37d7a38.js": "/surfly-demo/precache-manifest.33b275251711f4214a05e050b37d7a38.js",
     "service-worker.js": "/surfly-demo/service-worker.js",
     "static/css/2.65d0fb34.chunk.css.map": "/surfly-demo/static/css/2.65d0fb34.chunk.css.map",
     "static/css/main.4415dffc.chunk.css.map": "/surfly-demo/static/css/main.4415dffc.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.65d0fb34.chunk.css",
     "static/js/2.4ca20e61.chunk.js",
     "static/css/main.4415dffc.chunk.css",
-    "static/js/main.3d9489dc.chunk.js"
+    "static/js/main.73af4398.chunk.js"
   ]
 }
