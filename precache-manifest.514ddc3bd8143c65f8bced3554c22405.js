@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20077f824480246dde019557c8a8ef0e",
+    "revision": "c7ddb2bb374d89f7440b07a88be1ede0",
     "url": "/surfly-demo/index.html"
   },
   {
-    "revision": "f6fe879972f1de6d591c",
+    "revision": "028cf838b38b4efe0c1c",
     "url": "/surfly-demo/static/css/main.ebfe8ec0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surfly-demo/static/js/2.d54ac364.chunk.js"
   },
   {
-    "revision": "f6fe879972f1de6d591c",
-    "url": "/surfly-demo/static/js/main.ea592248.chunk.js"
+    "revision": "028cf838b38b4efe0c1c",
+    "url": "/surfly-demo/static/js/main.7826b45c.chunk.js"
   },
   {
     "revision": "d90953264df767ec3d36",
