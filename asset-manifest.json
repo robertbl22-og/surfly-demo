@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/surfly-demo/static/css/main.4415dffc.chunk.css",
-    "main.js": "/surfly-demo/static/js/main.edb00028.chunk.js",
-    "main.js.map": "/surfly-demo/static/js/main.edb00028.chunk.js.map",
+    "main.js": "/surfly-demo/static/js/main.3d20845b.chunk.js",
+    "main.js.map": "/surfly-demo/static/js/main.3d20845b.chunk.js.map",
     "runtime-main.js": "/surfly-demo/static/js/runtime-main.d820d35a.js",
     "runtime-main.js.map": "/surfly-demo/static/js/runtime-main.d820d35a.js.map",
     "static/css/2.65d0fb34.chunk.css": "/surfly-demo/static/css/2.65d0fb34.chunk.css",
-    "static/js/2.4ca20e61.chunk.js": "/surfly-demo/static/js/2.4ca20e61.chunk.js",
-    "static/js/2.4ca20e61.chunk.js.map": "/surfly-demo/static/js/2.4ca20e61.chunk.js.map",
+    "static/js/2.05e0573f.chunk.js": "/surfly-demo/static/js/2.05e0573f.chunk.js",
+    "static/js/2.05e0573f.chunk.js.map": "/surfly-demo/static/js/2.05e0573f.chunk.js.map",
     "index.html": "/surfly-demo/index.html",
-    "precache-manifest.964fcbb8b40c14803f534847db20e3ff.js": "/surfly-demo/precache-manifest.964fcbb8b40c14803f534847db20e3ff.js",
+    "precache-manifest.311cc4fd859cc150cdd609acc27aae6f.js": "/surfly-demo/precache-manifest.311cc4fd859cc150cdd609acc27aae6f.js",
     "service-worker.js": "/surfly-demo/service-worker.js",
     "static/css/2.65d0fb34.chunk.css.map": "/surfly-demo/static/css/2.65d0fb34.chunk.css.map",
     "static/css/main.4415dffc.chunk.css.map": "/surfly-demo/static/css/main.4415dffc.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.d820d35a.js",
     "static/css/2.65d0fb34.chunk.css",
-    "static/js/2.4ca20e61.chunk.js",
+    "static/js/2.05e0573f.chunk.js",
     "static/css/main.4415dffc.chunk.css",
-    "static/js/main.edb00028.chunk.js"
+    "static/js/main.3d20845b.chunk.js"
   ]
 }
