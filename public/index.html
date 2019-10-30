@@ -5,10 +5,7 @@
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
+    <meta name="description" content="Web site created using create-react-app" />
     <link rel="apple-touch-icon" href="logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
@@ -24,20 +21,52 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>Registrations-R-Us</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+  This HTML file is a template.
+  If you open it directly in the browser, you will see an empty page.
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+  You can add webfonts, meta tags, or analytics to this file.
+  The build step will place the bundled scripts into the <body> tag.
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+  To begin the development, run `npm start` or `yarn start`.
+  To create a production bundle, use `npm run build` or `yarn build`.
+-->
+    <script>
+      ;(function(s, u, r, f, l, y) {
+        s[f] = s[f] || {
+          init: function() {
+            s[f].q = arguments
+          },
+        }
+        l = u.createElement(r)
+        y = u.getElementsByTagName(r)[0]
+        l.async = 1
+        l.src = "https://surfly.com/surfly.js"
+        y.parentNode.insertBefore(l, y)
+      })(window, document, "script", "Surfly")
+
+      // var settings = {
+      //   // Surfly session options can be set here, or at the Company/Plan levels.
+      //   widget_key: "0237ad51dae843cc8ca12af5cfa829ae",
+      // }
+      //
+      // Surfly.init(settings, function(initResult) {
+      //   if (initResult.success) {
+      //     console.log('Surfly successfully initialized!')
+      //     // API calls can now be made!
+      //     if (!Surfly.isInsideSession) {
+      //       console.log('Surfly is in a session!')
+      //       // Surfly.button(); // Default Surfly button
+      //     }
+      //   } else {
+      //     console.log("Surfly was unable to initialize properly.")
+      //   }
+      // })
+    </script>
   </body>
 </html>
