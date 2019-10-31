@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86ee31bfcd2d51172ed8d4437c2b03ac",
+    "revision": "70c7cce7586eebb798a4e78241bd98c1",
     "url": "/surfly-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surfly-demo/static/css/2.65d0fb34.chunk.css"
   },
   {
-    "revision": "42f064efc3ebab0b205c",
+    "revision": "2d7931e2698a8be2278a",
     "url": "/surfly-demo/static/css/main.ca29061f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/surfly-demo/static/js/2.b7746cc4.chunk.js"
   },
   {
-    "revision": "42f064efc3ebab0b205c",
-    "url": "/surfly-demo/static/js/main.018e98bd.chunk.js"
+    "revision": "2d7931e2698a8be2278a",
+    "url": "/surfly-demo/static/js/main.58c6f760.chunk.js"
   },
   {
     "revision": "d90953264df767ec3d36",
